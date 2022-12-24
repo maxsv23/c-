@@ -17,8 +17,8 @@ Console.Write("input number =  ");
 string str2 = Console.ReadLine();
 
 if (str2.Length >2) {
-    char chr = str[1];
-    Console.WriteLine(chr);
+    char chr1 = str[1];
+    Console.WriteLine(chr1);
 }
 else Console.WriteLine("число не трехзначное");
 
